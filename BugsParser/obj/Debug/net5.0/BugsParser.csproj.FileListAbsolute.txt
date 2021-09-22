@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.exe
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.deps.json
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.runtimeconfig.json
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.runtimeconfig.dev.json
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.dll
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\ref\BugsParser.dll
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\bin\Debug\net5.0\BugsParser.pdb
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.dll
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\ref\BugsParser.dll
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.pdb
+C:\Users\Admin\RiderProjects\C#\BugsParser\BugsParser\obj\Debug\net5.0\BugsParser.genruntimeconfig.cache

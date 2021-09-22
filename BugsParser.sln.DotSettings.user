@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7619fa38_002D3cfb_002D4166_002Da6f9_002D97e88a8611e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Read_ShouldReturnExpectedAmountOfRows" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.ReaderTests.Read_ShouldReturnExpectedAmountOfRows&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.ReaderTests.Read_ShouldReturnExpectedAmountOfColumns&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.ReaderTests.Read_ShouldThrowExceptionOnWrongPath&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.GeneratorTests.GeneratorGetHeaders_ShouldWorkOnTestData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.GeneratorTests.GeneratorGetPriorities_ShouldWorkOnTestData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3B87C9E0-EFD4-48C8-B54F-CA712825472B::net5.0::BugsParser.Tests.GeneratorTests.GeneratorSummary_ShouldEqualsTestData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

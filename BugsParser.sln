@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugsParser", "BugsParser\BugsParser.csproj", "{E4C62CD1-A790-49EF-B449-D7EEB92D2ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugsParser.Tests", "BugsParser.Tests\BugsParser.Tests.csproj", "{3B87C9E0-EFD4-48C8-B54F-CA712825472B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C62CD1-A790-49EF-B449-D7EEB92D2ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C62CD1-A790-49EF-B449-D7EEB92D2ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C62CD1-A790-49EF-B449-D7EEB92D2ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C62CD1-A790-49EF-B449-D7EEB92D2ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B87C9E0-EFD4-48C8-B54F-CA712825472B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B87C9E0-EFD4-48C8-B54F-CA712825472B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B87C9E0-EFD4-48C8-B54F-CA712825472B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B87C9E0-EFD4-48C8-B54F-CA712825472B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
