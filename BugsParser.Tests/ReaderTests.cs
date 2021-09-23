@@ -28,8 +28,7 @@ namespace BugsParser.Tests
         [Fact]
         public void Read_ShouldThrowExceptionOnWrongPath()
         {
-            var reader = new CsvReader("wrongPath.csv");
-            Assert.Throws<FileNotFoundException>(() => reader.Read());
+            Assert.Throws<FileNotFoundException>(() => new CsvReader("wrongPath.csv"));
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using Microsoft.VisualBasic.FileIO;
 
@@ -10,6 +11,7 @@ namespace BugsParser
         public CsvReader(string filepath)
         {
             _filepath = filepath;
+            if (!File.Exists(_filepath)) throw new FileNotFoundException();
         }
         public List<string[]> Read()
         {
