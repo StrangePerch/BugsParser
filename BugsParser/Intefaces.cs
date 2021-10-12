@@ -9,6 +9,7 @@ namespace BugsParser
     
     public interface IWriter
     {
-        public void Write(Dictionary<string, Dictionary<string, int>> summary, List<string> teams);
+        public void Write(Dictionary<string, Dictionary<string, int>> summary, IEnumerable<string> teams);
     }
+
 }

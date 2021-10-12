@@ -1,13 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using Microsoft.VisualBasic.FileIO;
 
 namespace BugsParser
 {
     public class CsvReader : IReader
     {
-        private string _filepath;
+        private readonly string _filepath;
         public CsvReader(string filepath)
         {
             _filepath = filepath;

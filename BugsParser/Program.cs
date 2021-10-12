@@ -1,20 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Collections.Immutable;
 using System.IO;
-using System.Linq;
 
 namespace BugsParser
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             CsvReader reader;
             while (true)
             {
                 Console.Write("Read from: ");
-                string readPath = Console.ReadLine();
+                var readPath = Console.ReadLine();
                 try
                 {
                     reader = new CsvReader(readPath);

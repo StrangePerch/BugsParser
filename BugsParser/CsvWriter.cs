@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using Microsoft.VisualBasic.FileIO;
 
 namespace BugsParser
 {
@@ -11,7 +10,7 @@ namespace BugsParser
         {
             _filepath = filepath;
         }
-        public void Write(Dictionary<string, Dictionary<string, int>> summary, List<string> teams)
+        public void Write(Dictionary<string, Dictionary<string, int>> summary, IEnumerable<string> teams)
         {
             var stream = new StreamWriter(_filepath, false, System.Text.Encoding.Default);
             foreach (var team in teams)
